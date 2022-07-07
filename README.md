@@ -6,9 +6,9 @@
 
 > A local storage account password tool without network connection 
 
-![](https://tuotuo.stdcdn.com/home.jpg)
-![](https://tuotuo.stdcdn.com/home1.jpg)
-![](https://tuotuo.stdcdn.com/add.jpg)
-![](https://tuotuo.stdcdn.com/setting.jpg)
+![](https://raw.githubusercontent.com/mrlovables/password/master/pictures/home.jpg)
+![](https://raw.githubusercontent.com/mrlovables/password/master/pictures/home1.jpg)
+![](https://raw.githubusercontent.com/mrlovables/password/master/pictures/add.jpg)
+![](https://raw.githubusercontent.com/mrlovables/password/master/pictures/setting.jpg)
 
 
